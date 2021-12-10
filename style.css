@@ -9,6 +9,7 @@ h1{
 }
 h2{
     font-size: 30px;
+    font-weight: 700;
 }
 .button-design{
     text-decoration: none;
@@ -59,4 +60,24 @@ h2{
 }
 .three-items img{
     width: 100%;
+}
+.section-5{
+    box-shadow: 4px 4px 4px 4px gainsboro; 
+    margin: 80px 40px 20px 50px;
+    border-radius: 30px;
+}
+.three-data{
+    width: 33.33%;
+    padding: 20px 60px 40px 150px; 
+}
+.section-6{
+    margin-top: 60px;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+    padding: 5px 0px 80px 0px ;
+}
+footer small{
+    color: white;
 }
