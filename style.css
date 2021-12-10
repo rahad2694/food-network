@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+.button-design{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;    
+}
+.flexible-display{
+    display: flex;
+}
+.display-half{
+    width: 50%;
+    padding: 10px 10px 30px 20px;
+}
+.display-half img{
+    width: 80%;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-me-left img{
+    width: 50%;
+}
+.about-me-left{
+    width: 50%;
+    padding: 50px 10px 0px 220px;
+}
+.about-me-right{
+    width: 50%;
+    padding: 70px 190px 0px 70px;
+}
+.section-3{
+    text-align: center;
+}
+.section-4{
+    padding: 40px 30px 20px 20px;
+}
+.three-items{
+    width: 33.33%;
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px 4px gainsboro;
+    padding: 20px 30px 20px 30px;
+    margin: 10px 20px 5px 40px;
+}
+.three-items img{
+    width: 100%;
+}
